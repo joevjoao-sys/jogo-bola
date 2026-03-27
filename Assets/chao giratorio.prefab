@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 2775849244128687921}
   - component: {fileID: -6342901437233045031}
   m_Layer: 0
-  m_Name: Cube giratorio
+  m_Name: chao giratorio
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
